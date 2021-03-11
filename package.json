@@ -10,7 +10,7 @@
     "node": ">=10"
   },
   "bin": {
-    "create-react-library": "index.js"
+    "create-winfu-plugin": "index.js"
   },
   "scripts": {
     "test": "ava -v && standard *.js lib/*.js"
